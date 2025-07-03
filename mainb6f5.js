@@ -16529,7 +16529,7 @@ Game.Launch=function()
 		{
 			var title='Cookie Clicker';
 			if (Game.season=='fools') title='Cookie Baker';
-			document.title='Home | Compass';
+			document.title='Google';
 		}
 		if (Game.T%15==0)
 		{
